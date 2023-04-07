@@ -1486,7 +1486,7 @@ then true else false</dmn:text>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="614.696261682243" y="151.6842105263158" width="93" height="50"/>
+        <dc:Bounds x="736.696261682243" y="188.3421052631579" width="93" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="dmnedge-drg-_EFBD0323-6F10-42F8-8346-8E26BCC01D44-AUTO-TARGET" dmnElementRef="_EFBD0323-6F10-42F8-8346-8E26BCC01D44">
